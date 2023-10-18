@@ -6,9 +6,8 @@ function hasKey(key) {
 		if(i===key){
 		   return true;
 		}
-		return false;
 	}
-	
+	return false;
 }
 
 // Do not change the code below
